@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-just another repo
+Hi Humans!
+I study shiny objects and I render 3D objects. 
